@@ -1,0 +1,25 @@
+/* *{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: rgb(96, 96, 184);
+}
+.conbox{
+    width: 500px;
+    background-color:rgb(231, 164, 164) ;
+} */
+body{
+    background-image: url("./images/bgnew");
+    
+    /* background-position: center; */
+     background-repeat: no-repeat;
+    background-size: cover;
+}
+a{
+    color: rgb(99, 10, 99);
+    font-size: 15px;
+    display: inline;
+    text-align: right;
+    text-decoration: none;
+}
