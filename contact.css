@@ -10,7 +10,7 @@ body{
     background-color:rgb(231, 164, 164) ;
 } */
 body{
-    background-image: url("./images/bgnew");
+    background-image: url("./images/bgg.jpg");
     
     /* background-position: center; */
      background-repeat: no-repeat;
@@ -22,4 +22,7 @@ a{
     display: inline;
     text-align: right;
     text-decoration: none;
+}
+#h1{
+    color: rgb(219, 11, 105);
 }
